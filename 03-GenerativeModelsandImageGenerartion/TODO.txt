@@ -1,0 +1,6 @@
+- load the oxford pets dataset in data/pets folder using the provided structure.
+ https://www.robots.ox.ac.uk/~vgg/data/pets/
+
+- Insert your own REPLICATE_API_TOKEN to play around with Llama
+
+- you need to train your own Unet and Autoencoders. Just set the flags accordingly
